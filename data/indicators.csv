@@ -1,0 +1,6 @@
+Indicator Name,Indicator Code,Indicator Short Code
+"GDP, PPP (current international $)",NY.GDP.MKTP.PP.CD,GDP.MKTP
+"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,GDP.PCAP
+CO2 emissions (kt),EN.ATM.CO2E.KT,CO2E.KT
+CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,CO2E.PC
+Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,GHGT.KT
