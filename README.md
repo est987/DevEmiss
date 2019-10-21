@@ -1,7 +1,7 @@
 # DevEmiss
  DataViz of Development and Emissions Indicators from World Bank
  
-![CO2 Emissions (ton per capita)](graphs/maps/co2_pc.gif)
+![CO2 Emissions (ton per capita)](graphs/maps/co2e_pc.gif)
 
 
 ## Credits
